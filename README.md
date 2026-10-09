@@ -1,6 +1,6 @@
 # ShipDocs Agent
 
-An AI agent that collects and reads shipping documents (invoices, packing lists, bills of lading) and answers questions about them.
+An AI agent that collects and reads shipping documents (invoices, packing lists, bills of lading), checks them against purchase orders, prepares them for Free Trade Agreement (FTA) and customs duty checks, and answers questions about them.
 
 ## Why
 Logistics teams spend hours every week collecting and opening shipment documents, checking details and comparing them with purchase orders. ShipDocs Agent shows how AI can take over that repetitive work.
